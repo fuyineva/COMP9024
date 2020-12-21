@@ -1,0 +1,7 @@
+Partial order:
+1: 11 121
+11: 121
+121:
+
+Longest monotonically increasing sequences:
+1 < 11 < 121

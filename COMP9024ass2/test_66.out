@@ -1,0 +1,15 @@
+Partial order:
+1: 11
+2: 22
+3: 33
+6: 66
+11:
+22:
+33:
+66:
+
+Longest monotonically increasing sequences:
+1 < 11
+2 < 22
+3 < 33
+6 < 66

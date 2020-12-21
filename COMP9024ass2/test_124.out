@@ -1,0 +1,14 @@
+Partial order:
+1: 31 124
+2: 62 124
+4: 124
+31:
+62:
+124:
+
+Longest monotonically increasing sequences:
+1 < 31
+1 < 124
+2 < 62
+2 < 124
+4 < 124

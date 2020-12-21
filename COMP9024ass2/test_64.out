@@ -1,0 +1,13 @@
+Partial order:
+1: 16
+2: 32
+4: 64
+8:
+16:
+32:
+64:
+
+Longest monotonically increasing sequences:
+1 < 16
+2 < 32
+4 < 64

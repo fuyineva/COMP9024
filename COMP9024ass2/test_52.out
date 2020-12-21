@@ -1,0 +1,12 @@
+Partial order:
+1: 13
+2: 26 52
+4:
+13:
+26:
+52:
+
+Longest monotonically increasing sequences:
+1 < 13
+2 < 26
+2 < 52

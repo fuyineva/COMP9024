@@ -1,0 +1,9 @@
+Partial order:
+1: 17 51
+3:
+17:
+51:
+
+Longest monotonically increasing sequences:
+1 < 17
+1 < 51

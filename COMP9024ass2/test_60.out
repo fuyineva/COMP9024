@@ -1,0 +1,23 @@
+Partial order:
+1: 10 12 15
+2: 12 20
+3: 30
+4:
+5: 15
+6: 60
+10:
+12:
+15:
+20:
+30:
+60:
+
+Longest monotonically increasing sequences:
+1 < 10
+1 < 12
+1 < 15
+2 < 12
+2 < 20
+3 < 30
+5 < 15
+6 < 60

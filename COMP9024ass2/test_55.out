@@ -1,0 +1,9 @@
+Partial order:
+1: 11
+5: 55
+11:
+55:
+
+Longest monotonically increasing sequences:
+1 < 11
+5 < 55

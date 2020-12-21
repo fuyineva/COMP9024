@@ -1,0 +1,13 @@
+Partial order:
+1: 10 100
+2: 20
+4:
+5: 25 50
+10: 100
+20:
+25:
+50:
+100:
+
+Longest monotonically increasing sequences:
+1 < 10 < 100

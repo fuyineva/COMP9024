@@ -1,0 +1,9 @@
+Partial order:
+1: 11 13 143
+11: 143
+13: 143
+143:
+
+Longest monotonically increasing sequences:
+1 < 11 < 143
+1 < 13 < 143

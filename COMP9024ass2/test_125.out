@@ -1,0 +1,8 @@
+Partial order:
+1: 125
+5: 25 125
+25: 125
+125:
+
+Longest monotonically increasing sequences:
+5 < 25 < 125
